@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbbS0WmgkpdbL4G8H2V97nXe2z55OoW8uJ3AhXDDDENfCvWQ2RGAzUGCrhBATRqJ5U8SY20PiTnUAGaw0a2ecQ==",
+  "success": true,
+  "projectFilePath": "C:\\Michael Alejandro Criollo Gutierrez\\Prueba.DataAccess\\Prueba.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

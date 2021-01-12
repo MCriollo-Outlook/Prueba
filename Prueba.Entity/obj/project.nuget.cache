@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3JYSutxCA6rgPB4gc0M8etVUTk3p1hxrhDOFXL1Z7sx4lc/Fd5q0XWVLLwTIg6g5NfqxihTyooCXTu4SHjz1g==",
+  "success": true,
+  "projectFilePath": "C:\\Michael Alejandro Criollo Gutierrez\\Prueba.Entity\\Prueba.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

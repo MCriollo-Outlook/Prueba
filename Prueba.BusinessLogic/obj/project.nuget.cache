@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2SOgXeQ8WukLUhK7YQTA45nlXWnMpI6H1zxi7Lpwo151GwsugjMPFwBlUUUfTf28a6Fco9N2JAgNtM1FbF+PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Michael Alejandro Criollo Gutierrez\\Prueba.BusinessLogic\\Prueba.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
